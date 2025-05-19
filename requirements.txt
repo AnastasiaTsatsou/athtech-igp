@@ -3,3 +3,4 @@ pandas
 seaborn
 folium
 fuzzywuzzy
+scikit-learn
